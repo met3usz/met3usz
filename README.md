@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @met3usz
 - 👀 I’m interested in Front End Dev 🚀
-- 🌱 I’m currently learning IT in Uniwersytet Marii Curie-Skłodowskiej in Lublin
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on *blank*
 - 📫 How to reach me:
   - Linkedin: www.linkedin.com/in/met3usz/
